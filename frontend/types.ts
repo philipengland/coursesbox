@@ -54,3 +54,4 @@ export type Course = Data<{
     data: Image;
   };
 }>;
+
